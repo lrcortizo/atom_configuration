@@ -1,0 +1,52 @@
+"*":
+  "atom-autocomplete-php": {}
+  "atom-beautify":
+    general:
+      _analyticsUserId: "fa339c28-bfbc-4552-9b2d-05e904bf3024"
+    php:
+      cs_fixer_path: "php-cs-fixer.phar"
+  "atom-material-ui":
+    colors:
+      genAccent: true
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "b5f06e63-678f-4baf-2262-d515a925e657"
+  "git-plus": {}
+  linter: {}
+  "linter-php":
+    executablePath: "C:\\wamp\\bin\\php\\php5.6.25\\php.exe"
+  "linter-python":
+    withMcCabe: true
+    withPep257: true
+    withPep8: true
+    withPyflakes: true
+    withPylint: true
+  "linter-ui-default":
+    panelHeight: 182
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+  "php-cs-fixer": {}
+  welcome:
+    showOnStartup: false
